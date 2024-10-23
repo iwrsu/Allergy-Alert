@@ -10,3 +10,4 @@ tensorflow-hub==0.16.1
 tf_keras==2.17.0
 Werkzeug==3.0.4
 pandas==2.2.2
+gunicorn==20.1.0
